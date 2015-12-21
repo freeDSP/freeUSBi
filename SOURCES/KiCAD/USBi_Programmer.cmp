@@ -1,0 +1,179 @@
+Cmp-Mod V01 Created by PcbNew   date = Fr 28 Aug 2015 12:09:52 CEST
+
+BeginCmp
+TimeStamp = 55E030F8
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF0450
+Path = /55DCB6ED
+Reference = R6;
+ValeurCmp = 470R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF0401
+Path = /55DC6F72
+Reference = P2;
+ValeurCmp = CONN_02X05;
+IdModule  = Connect:VASCH5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF03C3
+Path = /55DD3110
+Reference = C1;
+ValeurCmp = 100u;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11.2x6.3mm_RM2.5_CopperClear;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF03C9
+Path = /55DCA6C7
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF03CF
+Path = /55DCA733
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF03D5
+Path = /55DCA7A3
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF03DB
+Path = /55DE29FA
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF03F3
+Path = /55DC68F9
+Reference = P1;
+ValeurCmp = CONN_02X10;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x10;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF0406
+Path = /55DC9C24
+Reference = P3;
+ValeurCmp = CONN_01X01;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x01;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF041E
+Path = /55DC6A0D
+Reference = P4;
+ValeurCmp = CONN_02X10;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x10;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF0425
+Path = /55DD9079
+Reference = Q1;
+ValeurCmp = Q_NMOS_DGS;
+IdModule  = Housings_TO-92:TO-92_Inline_Narrow_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF042C
+Path = /55DD9A11
+Reference = Q2;
+ValeurCmp = Q_NMOS_DGS;
+IdModule  = Housings_TO-92:TO-92_Inline_Narrow_Oval;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF0432
+Path = /55DC7A7D
+Reference = R1;
+ValeurCmp = 49R9;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF0438
+Path = /55DC842C
+Reference = R2;
+ValeurCmp = 470R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF043E
+Path = /55DD963C
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF0444
+Path = /55DD9B84
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF044A
+Path = /55DCA80B
+Reference = R5;
+ValeurCmp = 470R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF0456
+Path = /55DCB761
+Reference = R7;
+ValeurCmp = 470R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF045C
+Path = /55DF0FD6
+Reference = R8;
+ValeurCmp = 1M;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55DF0462
+Path = /55DE295D
+Reference = R9;
+ValeurCmp = 220R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55E030F1
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_3mm;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+EndListe
