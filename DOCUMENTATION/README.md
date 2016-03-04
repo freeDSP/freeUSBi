@@ -1,3 +1,3 @@
-[LINK TO VIEW (AND MODIFY) GETTING STARTED GUIDE freeUSBi.gdoc IN YOUR BROWSER](https://docs.google.com/open?id=1rKkCl3gyePwX15c3sjEIKP6Bb7CO77hgRAXtbYz5hA0)
+[LINK TO VIEW (AND MODIFY) THE GETTING STARTED GUIDE freeUSBi.gdoc IN YOUR BROWSER](https://docs.google.com/open?id=1rKkCl3gyePwX15c3sjEIKP6Bb7CO77hgRAXtbYz5hA0)
 
 
