@@ -33,9 +33,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "freeUSBi V0.1"
-Date "2015-09-15"
-Rev "0"
+Title "freeUSBi V0.2"
+Date "Mittwoch, 30. November 2016"
+Rev "0.2"
 Comp "www.freedsp.cc"
 Comment1 "www.creativecommons.org/licenses/by-sa/4.0/legalcode"
 Comment2 ""
